@@ -1,0 +1,691 @@
+<mockup version="1.0" skin="sketch" fontFace="Balsamiq Sans" measuredW="1093" measuredH="3337" mockupW="1075" mockupH="3336">
+  <controls>
+    <control controlID="0" controlTypeID="com.balsamiq.mockups::BrowserWindow" x="18" y="1" w="1075" h="1080" measuredW="450" measuredH="400" zOrder="0" locked="false" isInGroup="-1">
+      <controlProperties>
+        <color>16167531</color>
+        <text>%20%0Ahttp%3A//Inicio.aspx</text>
+      </controlProperties>
+    </control>
+    <control controlID="1" controlTypeID="com.balsamiq.mockups::Title" x="578" y="133" w="-1" h="-1" measuredW="201" measuredH="43" zOrder="1" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>ConfeWare</text>
+      </controlProperties>
+    </control>
+    <control controlID="2" controlTypeID="com.balsamiq.mockups::Label" x="123" y="896" w="-1" h="-1" measuredW="147" measuredH="21" zOrder="2" locked="false" isInGroup="-1">
+      <controlProperties>
+        <bold>true</bold>
+        <size>13</size>
+        <text>ConfeWare_Confecci%F3n</text>
+      </controlProperties>
+    </control>
+    <control controlID="3" controlTypeID="com.balsamiq.mockups::Label" x="123" y="951" w="-1" h="-1" measuredW="147" measuredH="21" zOrder="3" locked="false" isInGroup="-1">
+      <controlProperties>
+        <bold>true</bold>
+        <size>13</size>
+        <text>ConfeWare_Confecci%F3n</text>
+      </controlProperties>
+    </control>
+    <control controlID="4" controlTypeID="com.balsamiq.mockups::Label" x="123" y="1015" w="-1" h="-1" measuredW="81" measuredH="21" zOrder="4" locked="false" isInGroup="-1">
+      <controlProperties>
+        <bold>true</bold>
+        <size>13</size>
+        <text>@ConfeWare</text>
+      </controlProperties>
+    </control>
+    <control controlID="5" controlTypeID="com.balsamiq.mockups::Label" x="794" y="909" w="238" h="-1" measuredW="163" measuredH="21" zOrder="5" locked="false" isInGroup="-1">
+      <controlProperties>
+        <bold>true</bold>
+        <size>13</size>
+        <text>Direcci%F3n%3A%20Cra.%2086%20N%2042-12</text>
+      </controlProperties>
+    </control>
+    <control controlID="6" controlTypeID="com.balsamiq.mockups::Label" x="794" y="936" w="222" h="-1" measuredW="153" measuredH="21" zOrder="6" locked="false" isInGroup="-1">
+      <controlProperties>
+        <bold>true</bold>
+        <size>13</size>
+        <text>Telefonos%3A%2030574225791</text>
+      </controlProperties>
+    </control>
+    <control controlID="7" controlTypeID="com.balsamiq.mockups::Label" x="895" y="957" w="118" h="-1" measuredW="80" measuredH="21" zOrder="7" locked="false" isInGroup="-1">
+      <controlProperties>
+        <bold>true</bold>
+        <size>13</size>
+        <text>3142058304</text>
+      </controlProperties>
+    </control>
+    <control controlID="8" controlTypeID="com.balsamiq.mockups::Label" x="895" y="978" w="115" h="-1" measuredW="78" measuredH="21" zOrder="8" locked="false" isInGroup="-1">
+      <controlProperties>
+        <bold>true</bold>
+        <size>13</size>
+        <text>3227841772</text>
+      </controlProperties>
+    </control>
+    <control controlID="9" controlTypeID="com.balsamiq.mockups::Label" x="63" y="852" w="-1" h="-1" measuredW="237" measuredH="21" zOrder="9" locked="false" isInGroup="-1">
+      <controlProperties>
+        <bold>true</bold>
+        <size>13</size>
+        <text>Siguenos%20en%20nuestras%20redes%20sociables.</text>
+      </controlProperties>
+    </control>
+    <control controlID="10" controlTypeID="com.balsamiq.mockups::Image" x="63" y="888" w="49" h="42" measuredW="77" measuredH="79" zOrder="10" locked="false" isInGroup="-1">
+      <controlProperties>
+        <size>13</size>
+        <src>../../../C%3A/ConfeWareSENA/Confeware/Confeware/Confeware/Imagenes/facebook.png</src>
+        <text/>
+      </controlProperties>
+    </control>
+    <control controlID="11" controlTypeID="com.balsamiq.mockups::Image" x="63" y="953" w="49" h="35" measuredW="77" measuredH="79" zOrder="11" locked="false" isInGroup="-1">
+      <controlProperties>
+        <size>13</size>
+        <src>../../../C%3A/ConfeWareSENA/Confeware/Confeware/Confeware/Imagenes/instagram.png</src>
+        <text/>
+      </controlProperties>
+    </control>
+    <control controlID="12" controlTypeID="com.balsamiq.mockups::Image" x="65" y="999" w="49" h="35" measuredW="77" measuredH="79" zOrder="12" locked="false" isInGroup="-1">
+      <controlProperties>
+        <size>13</size>
+        <src>../../../C%3A/ConfeWareSENA/Confeware/Confeware/Confeware/Imagenes/twitter.png</src>
+        <text/>
+      </controlProperties>
+    </control>
+    <control controlID="13" controlTypeID="com.balsamiq.mockups::Image" x="302" y="103" w="154" h="102" measuredW="77" measuredH="79" zOrder="13" locked="false" isInGroup="-1">
+      <controlProperties>
+        <src>../../../C%3A/ConfeWareSENA/Confeware/Confeware/Confeware/Imagenes/logo.png</src>
+        <text/>
+      </controlProperties>
+    </control>
+    <control controlID="19" controlTypeID="com.balsamiq.mockups::Button" x="554" y="773" w="124" h="41" measuredW="83" measuredH="27" zOrder="14" locked="false" isInGroup="-1">
+      <controlProperties>
+        <color>13369344</color>
+        <text>GUARDAR</text>
+      </controlProperties>
+    </control>
+    <control controlID="20" controlTypeID="com.balsamiq.mockups::Button" x="430" y="773" w="124" h="41" measuredW="64" measuredH="27" zOrder="15" locked="false" isInGroup="-1">
+      <controlProperties>
+        <color>13369344</color>
+        <text>ATRAS</text>
+      </controlProperties>
+    </control>
+    <control controlID="23" controlTypeID="com.balsamiq.mockups::SubTitle" x="504" y="279" w="-1" h="-1" measuredW="226" measuredH="27" zOrder="16" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>CONTROL%20CALIDAD</text>
+      </controlProperties>
+    </control>
+    <control controlID="24" controlTypeID="com.balsamiq.mockups::SubTitle" x="60" y="316" w="-1" h="-1" measuredW="1011" measuredH="23" zOrder="17" locked="false" isInGroup="-1">
+      <controlProperties>
+        <size>20</size>
+        <text>Seleccione%20la%20fecha%20de%20produccion%20y%20esciba%20el%20numero%20%20de%20referencia%20de%20la%20prenda%20para%20consultar%20la%20trazabilidad</text>
+      </controlProperties>
+    </control>
+    <control controlID="25" controlTypeID="com.balsamiq.mockups::SubTitle" x="76" y="371" w="-1" h="-1" measuredW="284" measuredH="27" zOrder="18" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>FECHA%20DE%20PRODUCCI%D3N</text>
+      </controlProperties>
+    </control>
+    <control controlID="26" controlTypeID="com.balsamiq.mockups::SubTitle" x="76" y="412" w="-1" h="-1" measuredW="478" measuredH="27" zOrder="19" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>REFERENCIA%20DEL%20LOTE%20DE%20PRODUCCI%D3N</text>
+      </controlProperties>
+    </control>
+    <control controlID="27" controlTypeID="com.balsamiq.mockups::DateChooser" x="639" y="358" w="200" h="-1" measuredW="90" measuredH="25" zOrder="20" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>%20%20/%20%20/%20%20%20%20</text>
+      </controlProperties>
+    </control>
+    <control controlID="28" controlTypeID="com.balsamiq.mockups::TextInput" x="639" y="404" w="185" h="-1" measuredW="79" measuredH="26" zOrder="21" locked="false" isInGroup="-1">
+      <controlProperties>
+        <bold>true</bold>
+        <size>18</size>
+        <text/>
+      </controlProperties>
+    </control>
+    <control controlID="30" controlTypeID="com.balsamiq.mockups::Button" x="488" y="194" w="175" h="58" measuredW="118" measuredH="27" zOrder="22" locked="false" isInGroup="-1">
+      <controlProperties>
+        <color>13369344</color>
+        <text>Fichas%20T%E9cnicas</text>
+      </controlProperties>
+    </control>
+    <control controlID="31" controlTypeID="com.balsamiq.mockups::Button" x="151" y="194" w="175" h="58" measuredW="54" measuredH="27" zOrder="23" locked="false" isInGroup="-1">
+      <controlProperties>
+        <color>13369344</color>
+        <text>Inicio</text>
+      </controlProperties>
+    </control>
+    <control controlID="32" controlTypeID="com.balsamiq.mockups::Button" x="317" y="194" w="175" h="58" measuredW="78" measuredH="27" zOrder="24" locked="false" isInGroup="-1">
+      <controlProperties>
+        <color>13369344</color>
+        <text>Procesos</text>
+      </controlProperties>
+    </control>
+    <control controlID="33" controlTypeID="com.balsamiq.mockups::Image" x="151" y="184" w="-1" h="-1" measuredW="77" measuredH="79" zOrder="25" locked="false" isInGroup="-1">
+      <controlProperties>
+        <src>../../../C%3A/ConfeWareSENA/Confeware/Confeware/Confeware/Imagenes/inicio.png</src>
+        <text/>
+      </controlProperties>
+    </control>
+    <control controlID="34" controlTypeID="com.balsamiq.mockups::Button" x="827" y="194" w="175" h="58" measuredW="104" measuredH="27" zOrder="26" locked="false" isInGroup="-1">
+      <controlProperties>
+        <color>13369344</color>
+        <text>Cerrar%20Sesi%F3n</text>
+      </controlProperties>
+    </control>
+    <control controlID="35" controlTypeID="com.balsamiq.mockups::Button" x="656" y="194" w="175" h="58" measuredW="97" measuredH="27" zOrder="27" locked="false" isInGroup="-1">
+      <controlProperties>
+        <color>13369344</color>
+        <text>Cont%E1ctenos</text>
+      </controlProperties>
+    </control>
+    <control controlID="36" controlTypeID="com.balsamiq.mockups::Image" x="325" y="201" w="46" h="40" measuredW="77" measuredH="79" zOrder="28" locked="false" isInGroup="-1">
+      <controlProperties>
+        <src>../Confeware%2520Ultimo/Confeware/Confeware/Confeware/Imagenes/procesos.png</src>
+        <text/>
+      </controlProperties>
+    </control>
+    <control controlID="37" controlTypeID="com.balsamiq.mockups::Image" x="495" y="200" w="31" h="41" measuredW="77" measuredH="79" zOrder="29" locked="false" isInGroup="-1">
+      <controlProperties>
+        <src>../Confeware%2520Ultimo/Confeware/Confeware/Confeware/Imagenes/Fichas%2520Tecnicas.png</src>
+        <text/>
+      </controlProperties>
+    </control>
+    <control controlID="38" controlTypeID="com.balsamiq.mockups::Image" x="837" y="201" w="40" h="40" measuredW="77" measuredH="79" zOrder="30" locked="false" isInGroup="-1">
+      <controlProperties>
+        <src>../Confeware%2520Ultimo/Confeware/Confeware/Confeware/Imagenes/cerrar%2520sesion.png</src>
+        <text/>
+      </controlProperties>
+    </control>
+    <control controlID="39" controlTypeID="com.balsamiq.mockups::SubTitle" x="76" y="454" w="-1" h="-1" measuredW="433" measuredH="27" zOrder="31" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>CANTIDAD%20DE%20PRENDAS%20REALIZADAS</text>
+      </controlProperties>
+    </control>
+    <control controlID="40" controlTypeID="com.balsamiq.mockups::SubTitle" x="228" y="496" w="-1" h="-1" measuredW="638" measuredH="27" zOrder="32" locked="false" isInGroup="-1">
+      <controlProperties>
+        <color>13369344</color>
+        <text>ESCRIBA%20LA%20CANITDAD%20DE%20%20PRENDAS%20%20POR%20CADA%20%20TIPO</text>
+      </controlProperties>
+    </control>
+    <control controlID="41" controlTypeID="com.balsamiq.mockups::TextInput" x="639" y="445" w="185" h="-1" measuredW="79" measuredH="26" zOrder="33" locked="false" isInGroup="-1">
+      <controlProperties>
+        <bold>true</bold>
+        <size>18</size>
+        <text/>
+      </controlProperties>
+    </control>
+    <control controlID="44" controlTypeID="com.balsamiq.mockups::SubTitle" x="76" y="570" w="-1" h="-1" measuredW="288" measuredH="27" zOrder="34" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>Cantida%20de%20prendas%20tipo%20A</text>
+      </controlProperties>
+    </control>
+    <control controlID="45" controlTypeID="com.balsamiq.mockups::SubTitle" x="76" y="605" w="-1" h="-1" measuredW="286" measuredH="27" zOrder="35" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>Cantida%20de%20prendas%20tipo%20B</text>
+      </controlProperties>
+    </control>
+    <control controlID="46" controlTypeID="com.balsamiq.mockups::SubTitle" x="78" y="638" w="-1" h="-1" measuredW="289" measuredH="27" zOrder="36" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>Cantida%20de%20prendas%20tipo%20C</text>
+      </controlProperties>
+    </control>
+    <control controlID="48" controlTypeID="com.balsamiq.mockups::TextInput" x="463" y="638" w="185" h="-1" measuredW="79" measuredH="26" zOrder="37" locked="false" isInGroup="-1">
+      <controlProperties>
+        <bold>true</bold>
+        <size>18</size>
+        <text/>
+      </controlProperties>
+    </control>
+    <control controlID="49" controlTypeID="com.balsamiq.mockups::TextInput" x="463" y="605" w="185" h="-1" measuredW="79" measuredH="26" zOrder="38" locked="false" isInGroup="-1">
+      <controlProperties>
+        <bold>true</bold>
+        <size>18</size>
+        <text/>
+      </controlProperties>
+    </control>
+    <control controlID="50" controlTypeID="com.balsamiq.mockups::TextInput" x="463" y="570" w="185" h="-1" measuredW="79" measuredH="26" zOrder="39" locked="false" isInGroup="-1">
+      <controlProperties>
+        <bold>true</bold>
+        <size>18</size>
+        <text/>
+      </controlProperties>
+    </control>
+    <control controlID="51" controlTypeID="com.balsamiq.mockups::BrowserWindow" x="18" y="1125" w="1075" h="1080" measuredW="450" measuredH="400" zOrder="40" locked="false" isInGroup="-1">
+      <controlProperties>
+        <color>16167531</color>
+        <text>%20%0Ahttp%3A//Inicio.aspx</text>
+      </controlProperties>
+    </control>
+    <control controlID="52" controlTypeID="com.balsamiq.mockups::Title" x="578" y="1257" w="-1" h="-1" measuredW="201" measuredH="43" zOrder="41" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>ConfeWare</text>
+      </controlProperties>
+    </control>
+    <control controlID="53" controlTypeID="com.balsamiq.mockups::Label" x="123" y="2020" w="-1" h="-1" measuredW="147" measuredH="21" zOrder="42" locked="false" isInGroup="-1">
+      <controlProperties>
+        <bold>true</bold>
+        <size>13</size>
+        <text>ConfeWare_Confecci%F3n</text>
+      </controlProperties>
+    </control>
+    <control controlID="54" controlTypeID="com.balsamiq.mockups::Label" x="123" y="2075" w="-1" h="-1" measuredW="147" measuredH="21" zOrder="43" locked="false" isInGroup="-1">
+      <controlProperties>
+        <bold>true</bold>
+        <size>13</size>
+        <text>ConfeWare_Confecci%F3n</text>
+      </controlProperties>
+    </control>
+    <control controlID="55" controlTypeID="com.balsamiq.mockups::Label" x="123" y="2139" w="-1" h="-1" measuredW="81" measuredH="21" zOrder="44" locked="false" isInGroup="-1">
+      <controlProperties>
+        <bold>true</bold>
+        <size>13</size>
+        <text>@ConfeWare</text>
+      </controlProperties>
+    </control>
+    <control controlID="56" controlTypeID="com.balsamiq.mockups::Label" x="794" y="2033" w="238" h="-1" measuredW="163" measuredH="21" zOrder="45" locked="false" isInGroup="-1">
+      <controlProperties>
+        <bold>true</bold>
+        <size>13</size>
+        <text>Direcci%F3n%3A%20Cra.%2086%20N%2042-12</text>
+      </controlProperties>
+    </control>
+    <control controlID="57" controlTypeID="com.balsamiq.mockups::Label" x="794" y="2060" w="222" h="-1" measuredW="153" measuredH="21" zOrder="46" locked="false" isInGroup="-1">
+      <controlProperties>
+        <bold>true</bold>
+        <size>13</size>
+        <text>Telefonos%3A%2030574225791</text>
+      </controlProperties>
+    </control>
+    <control controlID="58" controlTypeID="com.balsamiq.mockups::Label" x="895" y="2081" w="118" h="-1" measuredW="80" measuredH="21" zOrder="47" locked="false" isInGroup="-1">
+      <controlProperties>
+        <bold>true</bold>
+        <size>13</size>
+        <text>3142058304</text>
+      </controlProperties>
+    </control>
+    <control controlID="59" controlTypeID="com.balsamiq.mockups::Label" x="895" y="2102" w="115" h="-1" measuredW="78" measuredH="21" zOrder="48" locked="false" isInGroup="-1">
+      <controlProperties>
+        <bold>true</bold>
+        <size>13</size>
+        <text>3227841772</text>
+      </controlProperties>
+    </control>
+    <control controlID="60" controlTypeID="com.balsamiq.mockups::Label" x="63" y="1976" w="-1" h="-1" measuredW="237" measuredH="21" zOrder="49" locked="false" isInGroup="-1">
+      <controlProperties>
+        <bold>true</bold>
+        <size>13</size>
+        <text>Siguenos%20en%20nuestras%20redes%20sociables.</text>
+      </controlProperties>
+    </control>
+    <control controlID="61" controlTypeID="com.balsamiq.mockups::Image" x="63" y="2012" w="49" h="42" measuredW="77" measuredH="79" zOrder="50" locked="false" isInGroup="-1">
+      <controlProperties>
+        <size>13</size>
+        <src>../../../C%3A/ConfeWareSENA/Confeware/Confeware/Confeware/Imagenes/facebook.png</src>
+        <text/>
+      </controlProperties>
+    </control>
+    <control controlID="62" controlTypeID="com.balsamiq.mockups::Image" x="63" y="2077" w="49" h="35" measuredW="77" measuredH="79" zOrder="51" locked="false" isInGroup="-1">
+      <controlProperties>
+        <size>13</size>
+        <src>../../../C%3A/ConfeWareSENA/Confeware/Confeware/Confeware/Imagenes/instagram.png</src>
+        <text/>
+      </controlProperties>
+    </control>
+    <control controlID="63" controlTypeID="com.balsamiq.mockups::Image" x="65" y="2123" w="49" h="35" measuredW="77" measuredH="79" zOrder="52" locked="false" isInGroup="-1">
+      <controlProperties>
+        <size>13</size>
+        <src>../../../C%3A/ConfeWareSENA/Confeware/Confeware/Confeware/Imagenes/twitter.png</src>
+        <text/>
+      </controlProperties>
+    </control>
+    <control controlID="64" controlTypeID="com.balsamiq.mockups::Image" x="302" y="1227" w="154" h="102" measuredW="77" measuredH="79" zOrder="53" locked="false" isInGroup="-1">
+      <controlProperties>
+        <src>../../../C%3A/ConfeWareSENA/Confeware/Confeware/Confeware/Imagenes/logo.png</src>
+        <text/>
+      </controlProperties>
+    </control>
+    <control controlID="65" controlTypeID="com.balsamiq.mockups::Button" x="554" y="1897" w="124" h="41" measuredW="83" measuredH="27" zOrder="54" locked="false" isInGroup="-1">
+      <controlProperties>
+        <color>13369344</color>
+        <text>GUARDAR</text>
+      </controlProperties>
+    </control>
+    <control controlID="66" controlTypeID="com.balsamiq.mockups::Button" x="430" y="1897" w="124" h="41" measuredW="64" measuredH="27" zOrder="55" locked="false" isInGroup="-1">
+      <controlProperties>
+        <color>13369344</color>
+        <text>ATRAS</text>
+      </controlProperties>
+    </control>
+    <control controlID="67" controlTypeID="com.balsamiq.mockups::SubTitle" x="445" y="1402" w="-1" h="-1" measuredW="260" measuredH="27" zOrder="56" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>CONTROL%20EFICIENCIA</text>
+      </controlProperties>
+    </control>
+    <control controlID="70" controlTypeID="com.balsamiq.mockups::SubTitle" x="326" y="1501" w="-1" h="-1" measuredW="173" measuredH="27" zOrder="57" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>Prendas%20totales</text>
+      </controlProperties>
+    </control>
+    <control controlID="73" controlTypeID="com.balsamiq.mockups::Button" x="488" y="1318" w="175" h="58" measuredW="118" measuredH="27" zOrder="58" locked="false" isInGroup="-1">
+      <controlProperties>
+        <color>13369344</color>
+        <text>Fichas%20T%E9cnicas</text>
+      </controlProperties>
+    </control>
+    <control controlID="74" controlTypeID="com.balsamiq.mockups::Button" x="151" y="1318" w="175" h="58" measuredW="54" measuredH="27" zOrder="59" locked="false" isInGroup="-1">
+      <controlProperties>
+        <color>13369344</color>
+        <text>Inicio</text>
+      </controlProperties>
+    </control>
+    <control controlID="75" controlTypeID="com.balsamiq.mockups::Button" x="317" y="1318" w="175" h="58" measuredW="78" measuredH="27" zOrder="60" locked="false" isInGroup="-1">
+      <controlProperties>
+        <color>13369344</color>
+        <text>Procesos</text>
+      </controlProperties>
+    </control>
+    <control controlID="76" controlTypeID="com.balsamiq.mockups::Image" x="151" y="1308" w="-1" h="-1" measuredW="77" measuredH="79" zOrder="61" locked="false" isInGroup="-1">
+      <controlProperties>
+        <src>../../../C%3A/ConfeWareSENA/Confeware/Confeware/Confeware/Imagenes/inicio.png</src>
+        <text/>
+      </controlProperties>
+    </control>
+    <control controlID="77" controlTypeID="com.balsamiq.mockups::Button" x="827" y="1318" w="175" h="58" measuredW="104" measuredH="27" zOrder="62" locked="false" isInGroup="-1">
+      <controlProperties>
+        <color>13369344</color>
+        <text>Cerrar%20Sesi%F3n</text>
+      </controlProperties>
+    </control>
+    <control controlID="78" controlTypeID="com.balsamiq.mockups::Button" x="656" y="1318" w="175" h="58" measuredW="97" measuredH="27" zOrder="63" locked="false" isInGroup="-1">
+      <controlProperties>
+        <color>13369344</color>
+        <text>Cont%E1ctenos</text>
+      </controlProperties>
+    </control>
+    <control controlID="79" controlTypeID="com.balsamiq.mockups::Image" x="325" y="1325" w="46" h="40" measuredW="77" measuredH="79" zOrder="64" locked="false" isInGroup="-1">
+      <controlProperties>
+        <src>../Confeware%2520Ultimo/Confeware/Confeware/Confeware/Imagenes/procesos.png</src>
+        <text/>
+      </controlProperties>
+    </control>
+    <control controlID="80" controlTypeID="com.balsamiq.mockups::Image" x="495" y="1324" w="31" h="41" measuredW="77" measuredH="79" zOrder="65" locked="false" isInGroup="-1">
+      <controlProperties>
+        <src>../Confeware%2520Ultimo/Confeware/Confeware/Confeware/Imagenes/Fichas%2520Tecnicas.png</src>
+        <text/>
+      </controlProperties>
+    </control>
+    <control controlID="81" controlTypeID="com.balsamiq.mockups::Image" x="837" y="1325" w="40" h="40" measuredW="77" measuredH="79" zOrder="66" locked="false" isInGroup="-1">
+      <controlProperties>
+        <src>../Confeware%2520Ultimo/Confeware/Confeware/Confeware/Imagenes/cerrar%2520sesion.png</src>
+        <text/>
+      </controlProperties>
+    </control>
+    <control controlID="82" controlTypeID="com.balsamiq.mockups::SubTitle" x="666" y="1510" w="-1" h="-1" measuredW="158" measuredH="27" zOrder="67" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>PORCENTAJE</text>
+      </controlProperties>
+    </control>
+    <control controlID="84" controlTypeID="com.balsamiq.mockups::TextInput" x="326" y="1543" w="185" h="-1" measuredW="79" measuredH="26" zOrder="68" locked="false" isInGroup="-1">
+      <controlProperties>
+        <bold>true</bold>
+        <size>18</size>
+        <text/>
+      </controlProperties>
+    </control>
+    <control controlID="85" controlTypeID="com.balsamiq.mockups::SubTitle" x="666" y="1600" w="-1" h="-1" measuredW="165" measuredH="27" zOrder="69" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>Total%20eficiencia</text>
+      </controlProperties>
+    </control>
+    <control controlID="87" controlTypeID="com.balsamiq.mockups::SubTitle" x="92" y="1791" w="-1" h="-1" measuredW="564" measuredH="27" zOrder="70" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>La%20eficiencia%20total%20de%20la%20producion%20que%20realizo%20es%20de</text>
+      </controlProperties>
+    </control>
+    <control controlID="88" controlTypeID="com.balsamiq.mockups::TextInput" x="730" y="1791" w="185" h="-1" measuredW="79" measuredH="26" zOrder="71" locked="false" isInGroup="-1">
+      <controlProperties>
+        <bold>true</bold>
+        <size>18</size>
+        <text/>
+      </controlProperties>
+    </control>
+    <control controlID="89" controlTypeID="com.balsamiq.mockups::TextInput" x="639" y="1642" w="185" h="-1" measuredW="79" measuredH="26" zOrder="72" locked="false" isInGroup="-1">
+      <controlProperties>
+        <bold>true</bold>
+        <size>18</size>
+        <text/>
+      </controlProperties>
+    </control>
+    <control controlID="90" controlTypeID="com.balsamiq.mockups::TextInput" x="326" y="1642" w="185" h="-1" measuredW="79" measuredH="26" zOrder="73" locked="false" isInGroup="-1">
+      <controlProperties>
+        <bold>true</bold>
+        <size>18</size>
+        <text/>
+      </controlProperties>
+    </control>
+    <control controlID="91" controlTypeID="com.balsamiq.mockups::SubTitle" x="707" y="1537" w="-1" h="-1" measuredW="62" measuredH="27" zOrder="74" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>100%25</text>
+      </controlProperties>
+    </control>
+    <control controlID="92" controlTypeID="com.balsamiq.mockups::SubTitle" x="317" y="1600" w="-1" h="-1" measuredW="223" measuredH="27" zOrder="75" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>Prendas%20idealizadas</text>
+      </controlProperties>
+    </control>
+    <control controlID="94" controlTypeID="com.balsamiq.mockups::Button" x="488" y="1688" w="182" h="41" measuredW="132" measuredH="27" zOrder="76" locked="false" isInGroup="-1">
+      <controlProperties>
+        <color>13369344</color>
+        <text>Calcular%20eficiencia</text>
+      </controlProperties>
+    </control>
+    <control controlID="96" controlTypeID="com.balsamiq.mockups::BrowserWindow" x="18" y="2257" w="1075" h="1080" measuredW="450" measuredH="400" zOrder="77" locked="false" isInGroup="-1">
+      <controlProperties>
+        <color>16167531</color>
+        <text>%20%0Ahttp%3A//Inicio.aspx</text>
+      </controlProperties>
+    </control>
+    <control controlID="97" controlTypeID="com.balsamiq.mockups::Title" x="578" y="2389" w="-1" h="-1" measuredW="201" measuredH="43" zOrder="78" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>ConfeWare</text>
+      </controlProperties>
+    </control>
+    <control controlID="98" controlTypeID="com.balsamiq.mockups::Label" x="123" y="3152" w="-1" h="-1" measuredW="147" measuredH="21" zOrder="79" locked="false" isInGroup="-1">
+      <controlProperties>
+        <bold>true</bold>
+        <size>13</size>
+        <text>ConfeWare_Confecci%F3n</text>
+      </controlProperties>
+    </control>
+    <control controlID="99" controlTypeID="com.balsamiq.mockups::Label" x="123" y="3207" w="-1" h="-1" measuredW="147" measuredH="21" zOrder="80" locked="false" isInGroup="-1">
+      <controlProperties>
+        <bold>true</bold>
+        <size>13</size>
+        <text>ConfeWare_Confecci%F3n</text>
+      </controlProperties>
+    </control>
+    <control controlID="100" controlTypeID="com.balsamiq.mockups::Label" x="123" y="3271" w="-1" h="-1" measuredW="81" measuredH="21" zOrder="81" locked="false" isInGroup="-1">
+      <controlProperties>
+        <bold>true</bold>
+        <size>13</size>
+        <text>@ConfeWare</text>
+      </controlProperties>
+    </control>
+    <control controlID="101" controlTypeID="com.balsamiq.mockups::Label" x="794" y="3165" w="238" h="-1" measuredW="163" measuredH="21" zOrder="82" locked="false" isInGroup="-1">
+      <controlProperties>
+        <bold>true</bold>
+        <size>13</size>
+        <text>Direcci%F3n%3A%20Cra.%2086%20N%2042-12</text>
+      </controlProperties>
+    </control>
+    <control controlID="102" controlTypeID="com.balsamiq.mockups::Label" x="794" y="3192" w="222" h="-1" measuredW="153" measuredH="21" zOrder="83" locked="false" isInGroup="-1">
+      <controlProperties>
+        <bold>true</bold>
+        <size>13</size>
+        <text>Telefonos%3A%2030574225791</text>
+      </controlProperties>
+    </control>
+    <control controlID="103" controlTypeID="com.balsamiq.mockups::Label" x="895" y="3213" w="118" h="-1" measuredW="80" measuredH="21" zOrder="84" locked="false" isInGroup="-1">
+      <controlProperties>
+        <bold>true</bold>
+        <size>13</size>
+        <text>3142058304</text>
+      </controlProperties>
+    </control>
+    <control controlID="104" controlTypeID="com.balsamiq.mockups::Label" x="895" y="3234" w="115" h="-1" measuredW="78" measuredH="21" zOrder="85" locked="false" isInGroup="-1">
+      <controlProperties>
+        <bold>true</bold>
+        <size>13</size>
+        <text>3227841772</text>
+      </controlProperties>
+    </control>
+    <control controlID="105" controlTypeID="com.balsamiq.mockups::Label" x="63" y="3108" w="-1" h="-1" measuredW="237" measuredH="21" zOrder="86" locked="false" isInGroup="-1">
+      <controlProperties>
+        <bold>true</bold>
+        <size>13</size>
+        <text>Siguenos%20en%20nuestras%20redes%20sociables.</text>
+      </controlProperties>
+    </control>
+    <control controlID="106" controlTypeID="com.balsamiq.mockups::Image" x="63" y="3144" w="49" h="42" measuredW="77" measuredH="79" zOrder="87" locked="false" isInGroup="-1">
+      <controlProperties>
+        <size>13</size>
+        <src>../../../C%3A/ConfeWareSENA/Confeware/Confeware/Confeware/Imagenes/facebook.png</src>
+        <text/>
+      </controlProperties>
+    </control>
+    <control controlID="107" controlTypeID="com.balsamiq.mockups::Image" x="63" y="3209" w="49" h="35" measuredW="77" measuredH="79" zOrder="88" locked="false" isInGroup="-1">
+      <controlProperties>
+        <size>13</size>
+        <src>../../../C%3A/ConfeWareSENA/Confeware/Confeware/Confeware/Imagenes/instagram.png</src>
+        <text/>
+      </controlProperties>
+    </control>
+    <control controlID="108" controlTypeID="com.balsamiq.mockups::Image" x="65" y="3255" w="49" h="35" measuredW="77" measuredH="79" zOrder="89" locked="false" isInGroup="-1">
+      <controlProperties>
+        <size>13</size>
+        <src>../../../C%3A/ConfeWareSENA/Confeware/Confeware/Confeware/Imagenes/twitter.png</src>
+        <text/>
+      </controlProperties>
+    </control>
+    <control controlID="109" controlTypeID="com.balsamiq.mockups::Image" x="302" y="2359" w="154" h="102" measuredW="77" measuredH="79" zOrder="90" locked="false" isInGroup="-1">
+      <controlProperties>
+        <src>../../../C%3A/ConfeWareSENA/Confeware/Confeware/Confeware/Imagenes/logo.png</src>
+        <text/>
+      </controlProperties>
+    </control>
+    <control controlID="112" controlTypeID="com.balsamiq.mockups::SubTitle" x="445" y="2534" w="-1" h="-1" measuredW="254" measuredH="27" zOrder="91" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>Formulario%20de%20Contacto</text>
+      </controlProperties>
+    </control>
+    <control controlID="113" controlTypeID="com.balsamiq.mockups::SubTitle" x="152" y="2611" w="-1" h="-1" measuredW="757" measuredH="27" zOrder="92" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>Enviar%20un%20correo%20electr%F3nico.%20Todos%20los%20campos%20con%20*%20son%20obligatorios.</text>
+      </controlProperties>
+    </control>
+    <control controlID="114" controlTypeID="com.balsamiq.mockups::Button" x="488" y="2450" w="175" h="58" measuredW="118" measuredH="27" zOrder="93" locked="false" isInGroup="-1">
+      <controlProperties>
+        <color>13369344</color>
+        <text>Fichas%20T%E9cnicas</text>
+      </controlProperties>
+    </control>
+    <control controlID="115" controlTypeID="com.balsamiq.mockups::Button" x="151" y="2450" w="175" h="58" measuredW="54" measuredH="27" zOrder="94" locked="false" isInGroup="-1">
+      <controlProperties>
+        <color>13369344</color>
+        <text>Inicio</text>
+      </controlProperties>
+    </control>
+    <control controlID="116" controlTypeID="com.balsamiq.mockups::Button" x="317" y="2450" w="175" h="58" measuredW="78" measuredH="27" zOrder="95" locked="false" isInGroup="-1">
+      <controlProperties>
+        <color>13369344</color>
+        <text>Procesos</text>
+      </controlProperties>
+    </control>
+    <control controlID="117" controlTypeID="com.balsamiq.mockups::Image" x="151" y="2440" w="-1" h="-1" measuredW="77" measuredH="79" zOrder="96" locked="false" isInGroup="-1">
+      <controlProperties>
+        <src>../../../C%3A/ConfeWareSENA/Confeware/Confeware/Confeware/Imagenes/inicio.png</src>
+        <text/>
+      </controlProperties>
+    </control>
+    <control controlID="118" controlTypeID="com.balsamiq.mockups::Button" x="827" y="2450" w="175" h="58" measuredW="104" measuredH="27" zOrder="97" locked="false" isInGroup="-1">
+      <controlProperties>
+        <color>13369344</color>
+        <text>Cerrar%20Sesi%F3n</text>
+      </controlProperties>
+    </control>
+    <control controlID="119" controlTypeID="com.balsamiq.mockups::Button" x="656" y="2450" w="175" h="58" measuredW="97" measuredH="27" zOrder="98" locked="false" isInGroup="-1">
+      <controlProperties>
+        <color>13369344</color>
+        <text>Cont%E1ctenos</text>
+      </controlProperties>
+    </control>
+    <control controlID="120" controlTypeID="com.balsamiq.mockups::Image" x="325" y="2457" w="46" h="40" measuredW="77" measuredH="79" zOrder="99" locked="false" isInGroup="-1">
+      <controlProperties>
+        <src>../Confeware%2520Ultimo/Confeware/Confeware/Confeware/Imagenes/procesos.png</src>
+        <text/>
+      </controlProperties>
+    </control>
+    <control controlID="121" controlTypeID="com.balsamiq.mockups::Image" x="495" y="2456" w="31" h="41" measuredW="77" measuredH="79" zOrder="100" locked="false" isInGroup="-1">
+      <controlProperties>
+        <src>../Confeware%2520Ultimo/Confeware/Confeware/Confeware/Imagenes/Fichas%2520Tecnicas.png</src>
+        <text/>
+      </controlProperties>
+    </control>
+    <control controlID="122" controlTypeID="com.balsamiq.mockups::Image" x="837" y="2457" w="40" h="40" measuredW="77" measuredH="79" zOrder="101" locked="false" isInGroup="-1">
+      <controlProperties>
+        <src>../Confeware%2520Ultimo/Confeware/Confeware/Confeware/Imagenes/cerrar%2520sesion.png</src>
+        <text/>
+      </controlProperties>
+    </control>
+    <control controlID="123" controlTypeID="com.balsamiq.mockups::SubTitle" x="151" y="2662" w="-1" h="-1" measuredW="103" measuredH="27" zOrder="102" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>Nombre%20*</text>
+      </controlProperties>
+    </control>
+    <control controlID="124" controlTypeID="com.balsamiq.mockups::TextInput" x="151" y="2689" w="185" h="-1" measuredW="79" measuredH="26" zOrder="103" locked="false" isInGroup="-1">
+      <controlProperties>
+        <bold>true</bold>
+        <size>18</size>
+        <text/>
+      </controlProperties>
+    </control>
+    <control controlID="125" controlTypeID="com.balsamiq.mockups::SubTitle" x="151" y="2862" w="-1" h="-1" measuredW="112" measuredH="27" zOrder="104" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>Mensaje%20*</text>
+      </controlProperties>
+    </control>
+    <control controlID="126" controlTypeID="com.balsamiq.mockups::SubTitle" x="151" y="3014" w="-1" h="-1" measuredW="251" measuredH="27" zOrder="105" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>Enviar%20cop%ECa%20asi%20mismo</text>
+      </controlProperties>
+    </control>
+    <control controlID="128" controlTypeID="com.balsamiq.mockups::TextInput" x="151" y="2759" w="185" h="-1" measuredW="79" measuredH="26" zOrder="106" locked="false" isInGroup="-1">
+      <controlProperties>
+        <bold>true</bold>
+        <size>18</size>
+        <text/>
+      </controlProperties>
+    </control>
+    <control controlID="129" controlTypeID="com.balsamiq.mockups::TextInput" x="151" y="2827" w="427" h="-1" measuredW="79" measuredH="26" zOrder="107" locked="false" isInGroup="-1">
+      <controlProperties>
+        <bold>true</bold>
+        <size>18</size>
+        <text/>
+      </controlProperties>
+    </control>
+    <control controlID="130" controlTypeID="com.balsamiq.mockups::SubTitle" x="151" y="2724" w="-1" h="-1" measuredW="78" measuredH="27" zOrder="108" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>Email%20*</text>
+      </controlProperties>
+    </control>
+    <control controlID="131" controlTypeID="com.balsamiq.mockups::SubTitle" x="148" y="2800" w="-1" h="-1" measuredW="95" measuredH="27" zOrder="109" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>Asunto%20*</text>
+      </controlProperties>
+    </control>
+    <control controlID="132" controlTypeID="com.balsamiq.mockups::Button" x="151" y="3056" w="182" h="41" measuredW="114" measuredH="27" zOrder="110" locked="false" isInGroup="-1">
+      <controlProperties>
+        <color>13369344</color>
+        <text>ENVIAR%20EMAIL</text>
+      </controlProperties>
+    </control>
+    <control controlID="133" controlTypeID="com.balsamiq.mockups::Canvas" x="151" y="2889" w="427" h="109" measuredW="100" measuredH="70" zOrder="111" locked="false" isInGroup="-1"/>
+  </controls>
+</mockup>
